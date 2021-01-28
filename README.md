@@ -20,10 +20,9 @@ commit 规范如下：[开发中的你的Git提交规范吗？](https://segmentf
 ```
 feat(Component): 修复了组件的bug
 
-    - 修复了Component的某个bug
-    - 换行内容(一般建议在一行内处理完成)
+    - 修复了Component的某个bug(一般建议在一行内处理完成)
 
-    issues  #1,#2, #3, #4
+    issues  #5, #6, #7
 
-    Closes  #4
+    Closes  #7
 ```
