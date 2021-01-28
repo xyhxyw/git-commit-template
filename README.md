@@ -23,7 +23,7 @@ feat(Component): 修复了组件的bug
     - 修复了Component的某个bug
     - 换行内容(一般建议在一行内处理完成)
 
-    issues  #1,#2
+    issues  #1,#2, #3, #4
 
-    Closes  #2
+    Closes  #4
 ```
