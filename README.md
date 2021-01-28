@@ -9,8 +9,10 @@ commit 规范如下：[开发中的你的Git提交规范吗？](https://segmentf
 # 空行
 [optional footer]
     通常是bug的链接, 比如：
+    # issuses关键字，表示关联了哪些issuse
     issues  #1,#2
-    Closes  #2
+    # Closes关键字，表示会关闭这些issuse
+    Closes  #2 
 ```
 
 一个完整的commit格式为；
