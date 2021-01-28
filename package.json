@@ -1,0 +1,8 @@
+{
+  "name": "git-commit-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitee.com/xuyaohui/git-commit-template.git",
+  "author": "xyh <xyhxyw@126.com>",
+  "license": "MIT"
+}
